@@ -6,7 +6,8 @@ def majuscule(mot):
         nouveau_mot += chr(ord(lettre) - 32)
 
     return nouveau_mot
-
+print('test'
+      '')
 
 if __name__ == '__main__':
     mots = [
@@ -24,4 +25,4 @@ if __name__ == '__main__':
 
     print(mots)
 
-    print('test pour voir si ca marche')
+print('test2s')
